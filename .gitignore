@@ -1,0 +1,29 @@
+# nodejs
+node_modules
+dist
+build
+node_modules
+package-lock.json
+.log
+
+# typechain
+typechain
+*.d.ts
+
+# openzeppelin
+.openzeppelin
+
+# Hardhat files
+cache
+artifacts
+factories
+
+# environment
+.env
+
+# eslint
+.eslintcache
+
+# deploy
+generated
+.secret.json
